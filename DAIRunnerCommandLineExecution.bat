@@ -1,1 +1,0 @@
-"C:\Users\Vijayalaxmi\Downloads\DAIRunner_v2.2.6_Windows (1)" "DAIRunner exploratory --url http://localhost:8000 --clientid client:dai:agent:integration  --clientsecret b7d98480-e4d4-480f-a322-734766dad577  --group vijayalaxmi  --model TestPracticeModel  --agent VijayalaxmiK  --suite D:\ShopeeWeb&MobileApp.suite"
