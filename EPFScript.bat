@@ -1,1 +1,0 @@
-"C:\Program Files\Eggplant\runscript.bat" "D:\Vijayalaxmi\PracticeSuite.suite\Scripts\TestScript2.script" -commandLineOuput yes
