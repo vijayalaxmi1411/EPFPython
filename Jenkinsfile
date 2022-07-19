@@ -15,3 +15,4 @@ echo 'Starting DAI Runner...'
  }
  }
 }
+}
